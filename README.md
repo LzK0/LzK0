@@ -46,4 +46,3 @@ I don't work as Developer, but i want. I'm studying to be a Developer Fullstack.
 
 </div>
 
-![Snake animation](https://github.com/LzK0/LzK0/blob/output/github-contribution-grid-snake.svg)
